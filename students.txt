@@ -1,0 +1,8 @@
+102,yoga,100
+102,jack,90
+103,deepu,91
+101,yoga,99
+411,santhosh.r,10
+56,surya,100
+01,santhosh,000000000
+222,richard,430

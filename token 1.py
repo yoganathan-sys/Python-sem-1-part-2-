@@ -1,0 +1,10 @@
+n=int(input("Enter the first number:"))
+w=int(input("Enter the 2nd value:"))
+print("The sum =:",n+w)
+print("the supract =",n-w)
+print("the multiplication =",n*w)
+print("the division =",n/w)
+print("the floor division =",n//w)
+print("the  past of division =",n%w)
+print("the squire =",n**w)
+
